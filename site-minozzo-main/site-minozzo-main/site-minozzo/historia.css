@@ -8,6 +8,7 @@ p{
     color: whitesmoke;
 }
 
+
 h1{
     color: green;
     text-align: center;
@@ -15,19 +16,6 @@ h1{
     text-decoration-line: underline;
     font-size: 250% ;
 }
-
 li{
     color: whitesmoke;
-}
-
-.center{
-    text-align: center;
-}
-
-img{ 
-    
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
-    border: 5px solid #5BBE42;
 }
